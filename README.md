@@ -1,6 +1,6 @@
 Para visualizar la pagina Web, visite la siguiente URL:
 
-https://lothbrokragnar.GitHub.io/Tienda_XDA/
+https://lothbrokragnar.github.io/Tienda_XDA/
 
 Tópicos
 ● Crear estructura base del proyecto
